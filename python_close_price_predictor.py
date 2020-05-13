@@ -1,7 +1,7 @@
 #%%
 #author information.
 """
-Created on Wed Apr  1 13:31:38 2020
+Created on Wed Apr 1 13:31:38 2020
 
 This program uses an artificial recurrent neural network called Long Short Term Memory to predict the closing price of stock of an institution(Amazon) using past 6 month(180 days) stock prices.
 
